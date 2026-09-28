@@ -7,10 +7,13 @@
   "r2_buckets": [
     {
       "binding": "PARISH_IMAGES",
-      "bucket_name": "voce"
+      "bucket_name": "icp"
     }
   ],
   "vars": {
+    "SUPABASE_URL": "https://bewwgbmifpcwqymaatpr.supabase.co",
+    "SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJld3dnYm1pZnBjd3F5bWFhdHByIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODk4NzMxMjAsImV4cCI6MjEwNTQ0OTEyMH0.N_DQmjBFVZsKEcfJhGGcfXi_nXIrlRgzvObWyU2g6Yo",
+    "SUPABASE_SERVICE_ROLE_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJld3dnYm1pZnBjd3F5bWFhdHByIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc4OTg3MzEyMCwiZXhwIjoyMTA1NDQ5MTIwfQ.4pWbSA0U451GoOAl5aw9HoMCym7VzWgWnU45gHgkWgc",
     "MAX_UPLOAD_BYTES": "5242880",
     "TURNSTILE_REQUIRED": "false",
     "CORS_ORIGINS": "http://localhost:5173,https://icp-parish.netlify.app"
