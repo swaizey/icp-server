@@ -1,0 +1,2 @@
+TURNSTILE_REQUIRED=false
+TURNSTILE_SECRET_KEY=optional-for-local-testing
