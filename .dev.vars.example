@@ -1,2 +1,8 @@
+SUPABASE_URL=https://your-project.supabase.co
+SUPABASE_ANON_KEY=your-supabase-anon-key
+SUPABASE_SERVICE_ROLE_KEY=your-supabase-service-role-key
+PUBLIC_R2_URL=https://images.example.com
+CORS_ORIGINS=https://icp-parish.netlify.app
+TURNSTILE_SECRET_KEY=
+MAX_UPLOAD_BYTES=5242880
 TURNSTILE_REQUIRED=false
-TURNSTILE_SECRET_KEY=optional-for-local-testing

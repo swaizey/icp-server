@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "icp-parish-api",
+  "name": "icp-server",
   "main": "src/index.ts",
   "compatibility_date": "2026-09-21",
   "compatibility_flags": ["nodejs_compat"],
@@ -13,7 +13,7 @@
   "vars": {
     "MAX_UPLOAD_BYTES": "5242880",
     "TURNSTILE_REQUIRED": "false",
-    "CORS_ORIGINS": "http://localhost:5173,https://your-netlify-site.netlify.app"
+    "CORS_ORIGINS": "http://localhost:5173,https://icp-parish.netlify.app"
   },
   "observability": {
     "enabled": true,
