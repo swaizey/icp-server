@@ -7,7 +7,7 @@
   "r2_buckets": [
     {
       "binding": "PARISH_IMAGES",
-      "bucket_name": "icp-parish-images"
+      "bucket_name": "voce"
     }
   ],
   "vars": {
